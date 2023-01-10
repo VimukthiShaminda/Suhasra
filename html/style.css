@@ -188,6 +188,7 @@ h3{
     overflow: hidden;
 }
 .campus-col img{
+    border-radius: 10px;
     width: 100%;
     display: block;
 }
